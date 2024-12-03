@@ -1,5 +1,5 @@
 # FractalBitcoinMining
- Created on 03/12/2024 18:19 A telegram bot for mining Fractal Bitcoin Sats
+ Date of publication 03/12/2024 18:20 A telegram bot for mining Fractal Bitcoin Sats
 
 
 # The LonelyBit Mining Bot
